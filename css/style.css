@@ -17,7 +17,21 @@ body{
 	text-align: center;
 	line-height: 98px;
 	margin-bottom: 10px;
+	transition: 1s;
+}
+.logo{
+	-webkit-animation: infinite logo 2s;
+	-o-animation: infinite logo 2s;
+	animation: infinite logo 2s;
 	
+}
+@keyframes logo{
+	0%{
+		background: #0F1957
+	}
+	50%{
+		background: #224D9D;
+	}
 }
 header, .main, footer{
 
