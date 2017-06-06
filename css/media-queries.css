@@ -1,14 +1,28 @@
-@media only screen and (max-width:1254px) {
+@media only screen and (max-width:803px) {
 
 	aside {
 		margin-bottom: 20px;
+		display: 
+		float: ;
+		padding: 20px;;
+		width: 100%;
+	}
+
+	header, .main, footer {
+		width: 95%;
 	}
 
 	.main .articles {
-		margin-bottom: 0px;
+		width: 100%;
 	}
 
 }
-@media only screen and (max-width:764px) {
+@media only screen and (max-width:498px) {
+
+	aside {
+		: 100%;
+		width: 100%;
+		display: none;
+	}
 
 }
