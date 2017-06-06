@@ -1,0 +1,14 @@
+@media only screen and (max-width:1254px) {
+
+	aside {
+		margin-bottom: 20px;
+	}
+
+	.main .articles {
+		margin-bottom: 0px;
+	}
+
+}
+@media only screen and (max-width:764px) {
+
+}
